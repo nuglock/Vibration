@@ -1,0 +1,7 @@
+name: termofluidos-environment
+dependencies:
+  - numpy
+  - matplotlib
+  - bokeh
+  - IPython
+  - CoolProp
