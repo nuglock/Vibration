@@ -5,3 +5,4 @@ dependencies:
   - bokeh
   - IPython
   - CoolProp
+  - scipy
