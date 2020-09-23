@@ -6,3 +6,4 @@ dependencies:
   - IPython
   - CoolProp
   - scipy
+  - sympy
