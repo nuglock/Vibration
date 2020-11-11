@@ -7,3 +7,4 @@ dependencies:
   - CoolProp
   - scipy
   - sympy
+  - ffmeg
