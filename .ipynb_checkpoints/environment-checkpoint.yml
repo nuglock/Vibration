@@ -6,3 +6,5 @@ dependencies:
   - IPython
   - CoolProp
   - scipy
+  - sympy
+  - ffmeg
