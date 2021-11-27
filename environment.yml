@@ -4,6 +4,7 @@ dependencies:
   - matplotlib
   - bokeh
   - IPython
+  - ipywidgets
   - CoolProp
   - scipy
   - sympy
