@@ -9,3 +9,4 @@ dependencies:
   - scipy
   - sympy
   - ffmpeg
+  - nodejs
