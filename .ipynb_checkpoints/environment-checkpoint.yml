@@ -4,7 +4,10 @@ dependencies:
   - matplotlib
   - bokeh
   - IPython
+  - ipywidgets
   - CoolProp
   - scipy
   - sympy
-  - ffmeg
+  - ffmpeg
+  - nodejs
+  - ipympl

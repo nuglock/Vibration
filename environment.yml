@@ -10,3 +10,4 @@ dependencies:
   - sympy
   - ffmpeg
   - nodejs
+  - ipympl
